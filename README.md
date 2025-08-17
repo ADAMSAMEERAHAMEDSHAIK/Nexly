@@ -1,4 +1,4 @@
-# Nexly: Smart Web Resource Capture & Knowledge Management
+# Nexly: AI Powered Resource Platform & Extention
 
 ## Overview
 Nexly is a full-stack solution for capturing, organizing, and retrieving web content efficiently. It features a browser extension for instant content capture, a React-based web dashboard, and a scalable AWS-backed backend. Nexly leverages AI for intelligent tagging and search, and integrates with ServiceNow for enterprise workflows.
